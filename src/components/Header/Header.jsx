@@ -14,7 +14,7 @@ const Header = ({ onPlaceChanged, onLoad }) => {
       <Toolbar className={classes.toolbar}>
       <img src={logo} alt="travel mate logo" className={classes.logo}/>
         <Typography variant="h5" className={classes.title} style={{marginRight: '52%'}}>
-          Travel Mate 
+          Travel Mentor 
         </Typography>
         <Box display="flex">
           <Typography variant="h6" className={classes.title}>
