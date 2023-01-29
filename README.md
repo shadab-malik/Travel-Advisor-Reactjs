@@ -8,12 +8,12 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-![Alt text](/src/assets/screenshot.png?raw=true "Travel Mate Screenshot")
+![Alt text](/src/assets/ss.png?raw=true "Travel Mentor Screenshot")
 
- Live demo: https://jn-travel-mate.netlify.app/ 
+ Live demo: 
  
 ## Features
-This application enables users to search/filter restaurants and attractions near them. Users can also explore restaurants and attractions anywhere in the world by updating the search box with a new location or simply dragging their cursor on the map. Clicking on the restaurant or attraction card on the map gives the user more information on that particular place. We accomplish this with geolocation, Google Maps API, Google Places API, and Travel Advisor API.
+This app allows users to find and filter nearby restaurants and attractions using geolocation, Google Maps and Places API, and Travel Advisor API. Users can also search for places anywhere in the world by updating the location or using the map. More information is available by clicking on a place's card.
 
 ## Built With
 Google Maps API: https://developers.google.com/maps   
@@ -29,7 +29,7 @@ Netlify: https://www.netlify.com/
 npm install @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axios google-map-react
 
 ## What We Learned
-Making API calls with Axios, Google Maps API and geolocations, managing our API's on Google Cloud console and Rapid API console, storing API keys in environment variables, what a deprecated API is and what it means for a project, how to implement useEffects, Material UI styled components -  how to override and update styling, theming. 
+This includes using Axios to make API calls, working with Google Maps and geolocation APIs, managing APIs on Google Cloud and Rapid API, storing API keys securely, understanding deprecated APIs, implementing React Hooks (useEffects), using Material UI for styling, and customizing styles and themes.
 
 ## Acknowledgements
 Adrian Hajdin - JavascriptMastery JSM  
