@@ -1,4 +1,4 @@
-# Project: Travel Mate
+# Project: Travel Mentor
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -10,7 +10,7 @@
 ## Overview
 ![Alt text](/src/assets/ss.png?raw=true "Travel Mentor Screenshot")
 
- Live demo: 
+ Live demo: https://verdant-custard-f1107c.netlify.app/
  
 ## Features
 This app allows users to find and filter nearby restaurants and attractions using geolocation, Google Maps and Places API, and Travel Advisor API. Users can also search for places anywhere in the world by updating the location or using the map. More information is available by clicking on a place's card.
