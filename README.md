@@ -2,9 +2,8 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Built With](#built-with)
+[Built With](#built-with)
 - [Dependencies](#dependencies)
-- [What We Learned](#what-we-learned)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -28,10 +27,6 @@ Netlify: https://www.netlify.com/
 ## Dependencies
 npm install @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axios google-map-react
 
-## What We Learned
-This includes using Axios to make API calls, working with Google Maps and geolocation APIs, managing APIs on Google Cloud and Rapid API, storing API keys securely, understanding deprecated APIs, implementing React Hooks (useEffects), using Material UI for styling, and customizing styles and themes.
-
 ## Acknowledgements
 Adrian Hajdin - JavascriptMastery JSM  
-Github - https://github.com/adrianhajdin/project_travel_advisor   
-Project 1: https://www.youtube.com/watch?v=GDa8kZLNhJ4  
+
